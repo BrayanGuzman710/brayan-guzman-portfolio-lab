@@ -10,5 +10,12 @@ Since a little kid I have always carried a pencil sharpener in my bookbag. I cli
 
 At first these were the dimensions of my part the X and Y values were good per the 2x2 inch specification. The Z value was a little too much so I scaled it down to 11mm so it would be under the .25-inch specification. 
 
+<img width="4284" height="5712" alt="IMG_5175" src="https://github.com/user-attachments/assets/e392ba27-d368-4fc5-bb6e-943ab430af2d" />
+
+We encountered this problem when first trying to print it. It faulted out saying it was unable to home out. We then after got a fault saying to check the belt tension. I believe that after working on that it was able to home out. 
+
+
+
+
 
 
