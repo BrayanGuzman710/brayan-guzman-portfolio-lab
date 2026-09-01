@@ -26,6 +26,7 @@ At first these were the dimensions of my part the X and Y values were good per t
 We encountered this problem when first trying to print it. It faulted out saying it was unable to home out. We then after got a fault saying to check the belt tension. I believe that after working on that it was able to home out. 
 
 **Print:**
+We used printer 18.
 
 https://github.com/user-attachments/assets/68c99e9b-e813-4fd7-b9b9-163568d59b99
 
