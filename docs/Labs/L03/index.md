@@ -1,6 +1,6 @@
 Print Something Small
 
-**DOWNLOAD: **
+**DOWNLOAD:**
 
 My Download from Printables: https://www.printables.com/model/1819935-pencil-sharpener-30-degrees/comments 
 
