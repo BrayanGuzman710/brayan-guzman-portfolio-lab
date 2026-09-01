@@ -22,7 +22,7 @@ We encountered this problem when first trying to print it. It faulted out saying
 
 https://github.com/user-attachments/assets/68c99e9b-e813-4fd7-b9b9-163568d59b99
 
-This is my part and my groups parts getting made. The students in my group were Mohammed, Amir, and Logan. 
+This is my part and my groups parts getting made. The students in my group were Mohammed, Amir, and Logan. My part only took about 30 minutes to download and print. 
 
 <img width="4284" height="5712" alt="IMG_5178" src="https://github.com/user-attachments/assets/6cadee3d-05a8-461f-89af-9ad8644ac973" />
 
