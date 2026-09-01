@@ -14,9 +14,14 @@ At first these were the dimensions of my part the X and Y values were good per t
 
 We encountered this problem when first trying to print it. It faulted out saying it was unable to home out. We then after got a fault saying to check the belt tension. I believe that after working on that it was able to home out. 
 
-
-
 https://github.com/user-attachments/assets/68c99e9b-e813-4fd7-b9b9-163568d59b99
+
+This is my part and my groups parts getting made. The students in my group were Mohammed, Amir, and Logan. 
+
+<img width="4284" height="5712" alt="IMG_5178" src="https://github.com/user-attachments/assets/6cadee3d-05a8-461f-89af-9ad8644ac973" />
+
+For this project I learned a couple things. First, I learned that to print you need to download the STL file and not the G-Code. My group made this mistake, and we later had to fix it for it to be able to print. I learned that choosing different fills, the height, and different supports can either make your print time shorter or longer. I also learned that having a clean build plate is important at the start because if not the print can become uneven and mess up the product. Lastly, I learned that you could print out multiple parts at once. At first, I thought we were going to print our parts 1 by 1. I think this is pretty neat because it is efficient. 
+
 
 
 
