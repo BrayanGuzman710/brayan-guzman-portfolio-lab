@@ -6,9 +6,13 @@ My Download from Printables: https://www.printables.com/model/1819935-pencil-sha
 
 Since a little kid I have always carried a pencil sharpener in my bookbag. I clicked onto this design and thought it was neat. I decided to print it out and it came out good. This was my first time printing, something out so I questioned the part because some parts were hollow and I read that usually when its hollow it needs supports, but mine did not. 
 
+<img width="4284" height="5712" alt="IMG_5178" src="https://github.com/user-attachments/assets/b9989439-e740-4d5c-ab56-a7da678eeca8" />
+
+I thought to download this part and print it out, but the design is very detailed. The print time on this was an hour and a half. We were limited to 30 minutes so this was not possible. 
+
 <img width="516" height="256" alt="Screenshot 2026-08-30 192604" src="https://github.com/user-attachments/assets/05bbe836-2a91-492d-b8bb-280d8ec2e928" />
 
-At first these were the dimensions of my part the X and Y values were good per the 2x2 inch specification. The Z value was a little too much so I scaled it down to 11mm so it would be under the .25-inch specification. 
+At first these were the dimensions of my part the X and Y values were good per the 2x2 inch specification. The Z value was a little too much so I scaled it down to 6mm so it would be under the .25-inch specification. 
 
 <img width="4284" height="5712" alt="IMG_5175" src="https://github.com/user-attachments/assets/e392ba27-d368-4fc5-bb6e-943ab430af2d" />
 
