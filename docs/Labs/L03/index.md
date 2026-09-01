@@ -16,6 +16,10 @@ We encountered this problem when first trying to print it. It faulted out saying
 
 
 
+https://github.com/user-attachments/assets/68c99e9b-e813-4fd7-b9b9-163568d59b99
+
+
+
 
 
 
