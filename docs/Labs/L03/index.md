@@ -7,6 +7,8 @@ Grid Infill- is a useful 3D general infill for 3D parts. The crossing lines prov
 
 Wiggle Infill- the wiggle infill uses a wavy pattern inside the part. It is useful when creating a part that needs to flex and it uses less material because it is not very dense. 
 
-<img width="539" height="170" alt="image" src="https://github.com/user-attachments/assets/48f40b3e-2106-48c7-b0c8-995edc9b9441" />
+<img width="157" height="172" alt="Screenshot 2026-09-03 143755" src="https://github.com/user-attachments/assets/31bc40c2-b60f-44ac-9258-5e4094b77681" />
 
 Triangular Infill- it is used when a part needs more strength and rigidity. The triangular shape helps distribute forces throughout the part. Usually used on parts that will experience loads. 
+
+<img width="539" height="170" alt="image" src="https://github.com/user-attachments/assets/48f40b3e-2106-48c7-b0c8-995edc9b9441" />
