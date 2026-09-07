@@ -35,6 +35,17 @@ I started by making a simple sketch and dimensioning it. Then I trimmed the exce
 <img width="818" height="578" alt="Lab 3 Slice" src="https://github.com/user-attachments/assets/1aaa670a-85d8-49eb-a298-fa3c8c4358ca" />
 <img width="317" height="308" alt="Lab 3 Print Settings" src="https://github.com/user-attachments/assets/ca6f2e47-1b91-4d43-ac56-c70a8ddf7cb4" />
 
+**Preprocessor and Slicing**
+
+When I imported my file into Prusa slicer it had my wrench standing. I had to change the orientation to where it'd be flat so that the largest surface area would be touching the print bed. It also made sure that I wouldn't need supports or overhangs. For our infill settings we used 15%. We chose this for it to be different than the normal value and see how it would affect the part. Using a 15% infill kept my part lightweight and under the print time necessary. We also used a different infill pattern to see how it would affect the part. For the wall thickness we modified it so that the outer walls would be strong. Using different wall thicknesses can be important because it can make your part stronger and resistant to damage. A mistake I had was when I was sketching in SolidWorks my wrench was not equal on all sides and I had it on Prusa slicer already. I had to go back and modify it and export it again. 
+
+**Print**
+
+
+https://github.com/user-attachments/assets/6623c8ab-894b-4cbf-9fd3-aa7e9167764d
+
+
+
 
 
 
