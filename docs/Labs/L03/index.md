@@ -12,3 +12,6 @@ Wiggle Infill- the wiggle infill uses a wavy pattern inside the part. It is usef
 Triangular Infill- it is used when a part needs more strength and rigidity. The triangular shape helps distribute forces throughout the part. Usually used on parts that will experience loads. 
 
 <img width="539" height="170" alt="image" src="https://github.com/user-attachments/assets/48f40b3e-2106-48c7-b0c8-995edc9b9441" />
+
+The infill percentage can affect the strength, weight, and print time of the part. A higher infill puts more material inside the part, and it makes it less prone to crush or bend. 
+Different infill patterns can change how the forces are distributed throughout the part. 
