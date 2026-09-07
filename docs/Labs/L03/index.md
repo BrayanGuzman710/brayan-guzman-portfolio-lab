@@ -43,6 +43,9 @@ When I imported my file into Prusa slicer it had my wrench standing. I had to ch
 
 
 https://github.com/user-attachments/assets/6623c8ab-894b-4cbf-9fd3-aa7e9167764d
+<img width="4284" height="5712" alt="IMG_5229" src="https://github.com/user-attachments/assets/f49e86bd-e864-4092-8751-85e006367ac0" />
+<img width="4284" height="5712" alt="IMG_5230" src="https://github.com/user-attachments/assets/56d0abe2-adc6-4a82-b088-3f731d66de6d" />
+
 
 
 
