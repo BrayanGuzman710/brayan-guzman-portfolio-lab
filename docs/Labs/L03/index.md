@@ -41,12 +41,13 @@ When I imported my file into Prusa slicer it had my wrench standing. I had to ch
 
 **Print**
 
-
 https://github.com/user-attachments/assets/6623c8ab-894b-4cbf-9fd3-aa7e9167764d
 <img width="4284" height="5712" alt="IMG_5229" src="https://github.com/user-attachments/assets/f49e86bd-e864-4092-8751-85e006367ac0" />
 <img width="4284" height="5712" alt="IMG_5230" src="https://github.com/user-attachments/assets/56d0abe2-adc6-4a82-b088-3f731d66de6d" />
 
+**Lessons Learned**
 
+This project helped me learn what really goes into designing a part and actually making it come to life. I had never modeled my own part and printed it so that was a new thing for me. I had a mistake when modeling my part in SolidWorks. The mistake was getting the two sides and arcs even. At first, parts of my wrench were not symmetrical because I had drawn the geometry without enough dimensions and relations. I fixed this by going back into the sketch and adding dimensions and relations, so the geometry was properly constrained. I also had trouble using the Trim Entities tool because it sometimes wanted to remove more of the circle than I intended. A mistake I could have not caught was having the incorrect slicer settings. I could have had the wrong wall thickness or infill and still made my wrench without knowing. An example of a product that has different wall thickness would be a regular M&M. It has a hard outside shell and a soft chocolate inside. 
 
 
 
