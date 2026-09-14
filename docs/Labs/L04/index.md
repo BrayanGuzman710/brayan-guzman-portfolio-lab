@@ -61,3 +61,6 @@ For the build orientation I positioned the stair flat on so it could have a stab
 <img width="4284" height="5712" alt="IMG_5285" src="https://github.com/user-attachments/assets/fd97da34-3baf-4339-ba1b-3c7a34971644" />
 <img width="4284" height="5712" alt="IMG_5286" src="https://github.com/user-attachments/assets/7f8163bc-d2c8-4c3f-828f-f5a90488f8d4" />
 
+After my part was finished printing I used digital calipers to measure each of the 5 steps. All 5 of the dimensions were smaller than the corresponding SolidWorks dimensions. The 7.5 mm measurement was the most accurate. It only had a error of .06 mm. the 12.5 mm measurement had the largest error of .29 mm. 
+
+<img width="5270" height="1830" alt="IMG_5287" src="https://github.com/user-attachments/assets/cea215e7-ae10-4fb3-8e55-399684f86db5" />
