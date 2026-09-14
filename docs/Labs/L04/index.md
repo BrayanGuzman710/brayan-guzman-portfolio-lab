@@ -52,3 +52,12 @@ For the build orientation I positioned the stair flat on so it could have a stab
 <video width="700" controls>
   <source src="IMG_5268_GitHub.mp4" type="video/mp4">
 </video>
+
+## Testing and Results
+
+<img width="4284" height="5712" alt="IMG_5283" src="https://github.com/user-attachments/assets/31f9d90c-bf3b-4d4a-ae5c-9a4e51842372" />
+<img width="4284" height="5712" alt="IMG_5282" src="https://github.com/user-attachments/assets/7ff9d80f-eeff-41d6-88ef-7666a053a818" />
+<img width="4284" height="5712" alt="IMG_5284" src="https://github.com/user-attachments/assets/bfc27dd9-5b58-415f-99ab-f3e71469d5bc" />
+<img width="4284" height="5712" alt="IMG_5285" src="https://github.com/user-attachments/assets/fd97da34-3baf-4339-ba1b-3c7a34971644" />
+<img width="4284" height="5712" alt="IMG_5286" src="https://github.com/user-attachments/assets/7f8163bc-d2c8-4c3f-828f-f5a90488f8d4" />
+
