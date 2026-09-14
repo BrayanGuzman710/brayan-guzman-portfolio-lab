@@ -48,3 +48,7 @@ After completing my part on SolidWorks, I imported it into Prusa Slicer using an
 <img width="1170" height="936" alt="Layers and pperimeters" src="https://github.com/user-attachments/assets/9f8ad59b-5399-4ce6-a1ea-aa6dcf413e68" />
 
 For the build orientation I positioned the stair flat on so it could have a stable surface on the surface plate. It also worked out better like that because it didn't require any supports. For my infill I selected the 15% with a gyroid pattern. I chose the gyroid pattern because it provides internal support throughout the part. For layer height I selected a 0.2mm layer height. I chose this because it provided a balance between the print quality and print time. For my material I selected generic PLA. 
+
+<video width="600" controls>
+  <source src="../YOUR-FOLDER/IMG_5268_GitHub.mp4" type="video/mp4">
+</video>
