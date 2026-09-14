@@ -25,8 +25,28 @@ For my project this week, I chose to test the dimensional accuracy of the Prusa 
 
 ## Prediction 
 
+<img width="1917" height="1017" alt="Screenshot 2026-09-13 211857" src="https://github.com/user-attachments/assets/4e4b3912-c729-477f-a807-be6c447a99dd" />
+
+
 I predict that the Prusa 3-D printer will make my part relatively close to the dimensions in my SolidWorks sketch. I expect there to be a little bit of error because of the material I used, the process, or layer height. I still believe that it will be very close to the dimensions though. 
 
 ## Artifact Design
 
+<img width="1917" height="1021" alt="Screenshot 2026-09-13 210058" src="https://github.com/user-attachments/assets/891aa2b1-90c0-44f1-ba67-eb832e549de4" />
+
 I modeled my part in SolidWorks by creating a stair shaped model. I then used the boss extrude effect to make it 3-D. I chose the stair design because I thought it was a simple model that would allow me to test several different dimensions on my part. The steps are designed with dimensions of 2.5mm, 5.0mm, 7.5mm, 10.0mm, and 12.5mm. I used different dimensions because it will allow me to compare the designed dimensions with the dimensions of the 3-D printed part. The flat surfaces of the stairs will also allow me to use digital calipers to measure with ease. 
+
+## Design Decisions
+
+I chose to print a stair looking part because it allows me to compare the measurements of the part easily. I used a digital caliper to measure the depth of every "step". Each dimension increases 2.5mm. The consistent progression makes it easy to compare the dimensional error. Every measurement I take will be measured directly with the corresponding SolidWorks dimension. 
+
+## Preprocessor
+
+<img width="1911" height="922" alt="Slice privew " src="https://github.com/user-attachments/assets/cd6006af-c3a6-4e34-af20-23c1cdaaf77b" />
+ 
+After completing my part on SolidWorks, I imported it into Prusa Slicer using an STL file. The preprocessing stage of the part is important because it controls settings like the infill, layer height, orientation, and supports. 
+
+<img width="995" height="917" alt="Infill " src="https://github.com/user-attachments/assets/40d2ea0d-365a-4e3b-a47f-403ba1e3eb2a" />
+<img width="1170" height="936" alt="Layers and pperimeters" src="https://github.com/user-attachments/assets/9f8ad59b-5399-4ce6-a1ea-aa6dcf413e68" />
+
+For the build orientation 
