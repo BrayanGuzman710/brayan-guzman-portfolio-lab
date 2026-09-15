@@ -64,3 +64,14 @@ For the build orientation I positioned the stair flat on so it could have a stab
 After my part was finished printing I used digital calipers to measure each of the 5 steps. All 5 of the dimensions were smaller than the corresponding SolidWorks dimensions. The 7.5 mm measurement was the most accurate. It only had a error of .06 mm. the 12.5 mm measurement had the largest error of .29 mm. 
 
 <img width="5270" height="1830" alt="IMG_5287" src="https://github.com/user-attachments/assets/cea215e7-ae10-4fb3-8e55-399684f86db5" />
+
+## Lessons Learned 
+
+The biggest thing I learned from my experiment was that SolidWorks and 3-D printing does not guarantee that the finished part will have the exact same dimensions. I learned that having small features can have a big percentage error even when the actual dimension difference is small. Something I would like to do is if I repeated this experiment, I would like to print multiple and see if they would match each other or if the results would vary. Comparing them would help determine if the dimension errors are consistent. Overall, I liked this assignment because it helped me understand why when designing a part they also pass it through a type of inspection to determine errors and make sure the parts meet requirements. This project took me about 6 hours all combined between different days. 
+
+## Resources
+
+SolidWorks- used it to design my part and send STL file to prusa slicer
+Prusa Slicer- used it to build G-code for the 3-D printer, make adjustments to part like infill, layer height and material.
+Design Rules- used it evaluate the accuracies and finding specifications
+Mitutoyo Calipers- used for measuring parts and finding raw values
