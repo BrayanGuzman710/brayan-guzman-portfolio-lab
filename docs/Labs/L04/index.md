@@ -8,7 +8,9 @@ https://github.com/user-attachments/assets/4d080e88-01c4-4555-8e6a-60953b7e0eed
 
 SolidWorks Part:
 
-[Download my STL File](Stair%20Dimension%20Test.STL)
+## CAD File
+
+[Click here to view/download my SOLIDWORKS part](https://github.com/BrayanGuzman710/brayan-guzman-portfolio-lab/blob/main/docs/Labs/L04/Stair%20Dimension%20Test.SLDPRT)
 
 
 ## Table of Contents
