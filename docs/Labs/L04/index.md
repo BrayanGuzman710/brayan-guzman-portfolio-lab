@@ -6,7 +6,11 @@ https://github.com/user-attachments/assets/4d080e88-01c4-4555-8e6a-60953b7e0eed
 
  # Dimension Calibration Test
 
+SolidWorks Part:
 
+[Download my SOLIDWORKS Part](Stair_Dimension_Test.SLDPRT)
+
+[Download my STL File](Stair_Dimension_Test.STL)
 
 
 ## Table of Contents
