@@ -9,9 +9,10 @@ Lab 5 Snap Fit Design
 SolidWorks models:
 ### SOLIDWORKS Files
 
-- [Download Part 1](DIRECT-DOWNLOAD-LINK)
-- [Download Part 2](DIRECT-DOWNLOAD-LINK)
+### SolidWorks Files
 
+- [Download Part 1](Part1%20Snap%20Fit.SLDPRT)
+- [Download Part 2](Part2%20Snap%20Fit.SLDPRT)
 
 
 ## Modeling
