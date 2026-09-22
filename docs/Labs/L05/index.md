@@ -99,6 +99,9 @@ One mistake I made was making the original hook too small. The design appeared r
 
 Resources: 
 SolidWorks- used to model my parts to make a snap fit design and also tested them using the assembly feature
+
 PrusaSlicer- used to orient parts on printing bed and export g code into 3-D printer
+
 Prusa Core 3-D printer- used to make my parts come to life
+
 Science Direct- used to answer question under 3-D printing and test
