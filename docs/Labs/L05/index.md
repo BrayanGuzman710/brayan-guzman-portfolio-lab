@@ -7,6 +7,11 @@ Lab 5 Snap Fit Design
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
 SolidWorks models:
+### SOLIDWORKS Files
+
+- [Download Part 1](DIRECT-DOWNLOAD-LINK)
+- [Download Part 2](DIRECT-DOWNLOAD-LINK)
+
 
 
 ## Modeling
