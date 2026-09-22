@@ -7,7 +7,7 @@ Lab 5 Snap Fit Design
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
 <video controls width="700">
-    <source src="./IMG_5455_GitHub.mp4" type="video/mp4">
+<source src="./IMG_5455_GitHub.mp4" type="video/mp4">
 </video>
 
 SolidWorks models:
