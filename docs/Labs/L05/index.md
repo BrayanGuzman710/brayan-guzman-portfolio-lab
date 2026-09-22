@@ -6,6 +6,8 @@ Lab 5 Snap Fit Design
 3. [3D Printing and Testing](#3d-printing-and-testing)
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
+SolidWorks models:
+
 
 ## Modeling
 <img width="4284" height="5712" alt="IMG_5448" src="https://github.com/user-attachments/assets/d953478d-9e90-433b-92df-39f9b43953c5" />
@@ -89,4 +91,8 @@ Build orientation was important because Part 1 contains flexible arms that exper
 
 One mistake I made was making the original hook too small. The design appeared reasonable in CAD, but the physical print showed that the 1.25 mm hook did not provide enough engagement. I corrected this by increasing the hook to 3.00 mm and creating another version of Part 1. This showed me why physically testing a snap fit is important because a design that looks correct in CAD may not perform the same way after FDM printing.
 
-
+Resources: 
+SolidWorks- used to model my parts to make a snap fit design and also tested them using the assembly feature
+PrusaSlicer- used to orient parts on printing bed and export g code into 3-D printer
+Prusa Core 3-D printer- used to make my parts come to life
+Science Direct- used to answer question under 3-D printing and test
