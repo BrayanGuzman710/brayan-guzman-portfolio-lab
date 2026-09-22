@@ -6,8 +6,9 @@ Lab 5 Snap Fit Design
 3. [3D Printing and Testing](#3d-printing-and-testing)
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
-<video width="600" controls>
-  <source src="IMG_5455_GitHub.mp4" type="video/mp4">
+<video controls width="700">
+    <source src="./IMG_5455_GitHub.mp4" type="video/mp4">
+</video>
 
 SolidWorks models:
 
