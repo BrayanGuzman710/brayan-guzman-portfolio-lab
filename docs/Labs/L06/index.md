@@ -5,7 +5,6 @@ SolidWorks Download:
 
 ## Table of Contents
 1. [Modeling](#modeling)
-2. [Parametric Design](#parametric-design)
 3. [3D Printing and Testing](#3d-printing-and-testing)
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
@@ -40,5 +39,17 @@ After completing the model in SolidWorks, I exported the part as an STL file and
 
 For my 3-D print I used the Prusa Slicer Core One to print my part. The part was 28mm x 24mm x 6mm. I oriented the holder with its large flat base directly against the build plate. This orientation provides a large contact area with the print bed, which improves stability and bed adhesion. This orientation also keeps the two snap tabs vertical. The hooks use 45-degree ramps, which reduces the amount of unsupported overhang compared with printing a horizontal hook.
 I designed the snap hooks with 45-degree ramps so that the part could be printed without unnecessary support material. Avoiding supports reduces material usage, print time, and also preventing support material from affecting the snap-fit surfaces.
-My print took about 10 minutes. The material I used was PLA. 
+My print took about 10 minutes. The material I used was PLA.  My original design used a base size of 28 mm × 24 mm. After reviewing and testing the design, I realized that the base did not provide enough room for the board snap-fit features. I changed the base parameters to 32 mm × 28 mm to provide additional clearance and give the snap tabs more room to properly hold the artifact. Because the model was designed parametrically in SolidWorks, I was able to change the dimensions without completely redesigning the part. This showed me why using parameters is useful because the design can be quickly adjusted after testing.
+<img width="617" height="462" alt="Screenshot 2026-09-24 172708" src="https://github.com/user-attachments/assets/4a28f1c4-87c2-472a-9826-01c31467ebd2" />
+
+## Lessons Learned
+One thing I learned was that the dimensions of the artifact need to drive the CAD model. Measuring the artifact first gave me a starting point instead of guessing the dimensions of the holder. A second lesson was how important constraints are in parametric modeling. Using dimensions, coincident relations, and a mirror plane allowed the model to remain symmetric and made changes easier. I also made changes while creating the CAD model. One difficulty was creating the snap hook and getting its extrusion direction correct. I did this by creating the hook profile on the side of the snap tab and controlling the Boss-Extrude direction and distance. I also used a mirror plane instead of manually recreating the second snap tab, which kept both sides symmetric.
+
+### Time and Resources
+
+The total time from measuring the artifact through CAD modeling, slicing, printing, and testing was approximately 5 hours.
+
+SolidWorks for CAD modeling
+PrusaSlicer for preparing the STL
+Prusa CORE One printer, PLA filament, and the board holder
 
