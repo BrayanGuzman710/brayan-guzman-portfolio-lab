@@ -1,6 +1,7 @@
 ## Snap Fit Design
 
-<img width="4284" height="5712" alt="IMG_5546" src="https://github.com/user-attachments/assets/aa0bb660-8621-40bb-a984-01c58df4c19c" />
+<img width="4284" height="5712" alt="IMG_5547" src="https://github.com/user-attachments/assets/a718ed3d-dcac-4cef-a893-dfdb49e921e3" />
+
 
 SolidWorks Download:
 <p><a href="Lab%206%20Design%20Fits%20for%20Artifact%201.SLDPRT" download>Download the SolidWorks part</a></p>
