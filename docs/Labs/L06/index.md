@@ -8,7 +8,9 @@ SolidWorks Download:
 3. [3D Printing and Testing](#3d-printing-and-testing)
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
 
-
+<video controls width="100%">
+  <source src="IMG_5528.mp4" type="video/mp4">
+ 
 ## Modeling
 The purpose project was to design a small 3D-printed holder that snap fits onto my electronic board I chose in class. I first measured the artifact using calipers and then used those measurements to create a parametric model in SolidWorks. The holder I designed uses two flexible snap tabs that secure the board in place.
 
