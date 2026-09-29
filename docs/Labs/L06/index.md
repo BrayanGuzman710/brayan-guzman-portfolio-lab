@@ -7,8 +7,7 @@ SolidWorks Download:
 1. [Modeling](#modeling)
 3. [3D Printing and Testing](#3d-printing-and-testing)
 4. [Lessons Learned and Resources](#lessons-learned-and-resources)
-
-<video src="/brayan-guzman-portfolio-lab/Labs/L06/IMG_5528.mp4" controls playsinline width="600"></video>
+<iframe src="https://brayanguzman710.github.io/brayan-guzman-portfolio-lab/Labs/L06/IMG_5528.mp4" width="600" height="400" title="Snap-fit holder design video" allowfullscreen></iframe>
  
 ## Modeling
 The purpose project was to design a small 3D-printed holder that snap fits onto my electronic board I chose in class. I first measured the artifact using calipers and then used those measurements to create a parametric model in SolidWorks. The holder I designed uses two flexible snap tabs that secure the board in place.
