@@ -12,6 +12,7 @@ SolidWorks Download:
  
 ## Modeling
 The purpose project was to design a small 3D-printed holder that snap fits onto my electronic board I chose in class. I first measured the artifact using calipers and then used those measurements to create a parametric model in SolidWorks. The holder I designed uses two flexible snap tabs that secure the board in place.
+<img width="4284" height="5712" alt="IMG_5543 (1)" src="https://github.com/user-attachments/assets/2291c520-1ad0-43ae-b215-d9931311062b" />
 
 <img width="3455" height="2338" alt="IMG_5541" src="https://github.com/user-attachments/assets/6b0c1048-c05c-447c-b4b3-b4a813c345bc" />
  These measurements were the ones I used as the starting parameters for my SolidWorks model. I chose the 28 mm x 24 mm base because it is a little larger than the 25.8 mm x 21.7 mm electronic board and it would still be keeping the holder compact. The 6 mm snap tabs were selected because the artifact is approximately 5 mm tall, leaving room for the hook.
