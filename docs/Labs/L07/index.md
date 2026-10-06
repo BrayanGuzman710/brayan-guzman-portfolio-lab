@@ -58,4 +58,16 @@ Design Decisions
 3. Purchased pivot hardware I considered printing a pivot pin, but I chose an M5 bolt, washer, and nut. Purchased hardware made the connection easier to assemble and allowed me to adjust how tightly the joint was secured.
 4. Integrated pressing tip- I considered making the pressing tip a separate component, but I built it into the lever. This reduced the number of parts and eliminated another fastening connection.
 
+## 3-D Printing
+
+After completing my design in SolidWorks, I exported the base and lever from SolidWorks as STL files and imported them into PrusaSlicer. I placed the base flat on the build plate and placed the lever on its face. These orientations provided a large contact area with the bed. I checked the sliced preview before printing to confirm that the pivot holes and pressing tip were included. Supports were generated where needed using the auto supports, including beneath the raised pressing tip.
+<img width="1917" height="996" alt="Screenshot 2026-10-01 153650" src="https://github.com/user-attachments/assets/ff643037-7da0-4d53-bf18-dc629bc9c811" />
+
+<img width="662" height="566" alt="Screenshot 2026-10-01 152936" src="https://github.com/user-attachments/assets/ed759a63-0af1-4967-98f9-dc9836b8945a" />
+I initially used 30% infill, but I reduced it to 20% to shorten the estimated printing time. The estimate decreased from approximately 1 hour 51 minutes to approximately 1 hour 30 minutes. I kept four perimeters to provide thicker outer walls. Elephant foot occurs when the first layer spreads beyond the intended outline. This can affect dimensions and the fit of printed parts. Prusa Slicer’s elephant foot compensation reduces the first-layer outline to help correct this effect. My change was from 0.20 mm to 0.25 mm. The elephant foot compensation worked well on my parts. The bottom edges did not show outward spreading that interfered with my lever assembly. Based on this result, I would keep the same compensation setting for another print of this design. 
+<img width="497" height="312" alt="Screenshot 2026-10-01 143826" src="https://github.com/user-attachments/assets/b9deb951-5da8-4905-b8f3-7863d0142a6f" />
+<img width="988" height="602" alt="Screenshot 2026-10-01 145257" src="https://github.com/user-attachments/assets/7de15790-435f-472e-acb8-b291e1dc6ea5" />
+
+A seam forms where a perimeter begins and ends. It can create a small surface bump, which may affect a moving joint if it lies on a contacting surface. Rear seam placement directs seams toward the back of the model, but it does not eliminate them. The planned change was from Aligned to Rear. I chose this setting to place seams consistently toward the back, then check their locations in the sliced preview. The seam position also worked well. The seams did not cause rubbing or binding when the lever moved. I would keep the same seam setting because it provided a nice surface finish for my lever. The base and lever were printed as separate parts. During printing, I initially thought the upright pivot holes might not form correctly. After the print finished, I confirmed that the holes had printed successfully. 
+<img width="988" height="602" alt="Screenshot 2026-10-01 145257" src="https://github.com/user-attachments/assets/906840c2-a26c-4696-b593-a7f5fe25bc5e" />
 
