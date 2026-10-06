@@ -92,6 +92,10 @@ A seam forms where a perimeter begins and ends. It can create a small surface bu
 <img width="4284" height="5712" alt="IMG_5579" src="https://github.com/user-attachments/assets/7fdfe478-34f7-4a3f-94de-d08e6b06229a" />
 
 
+<video controls playsinline preload="metadata" width="480" style="max-width:100%;">
+  <source src="IMG_5578_GitHub.mp4" type="video/mp4">
+</video>
+
 ## Lessons Learned 
 The project took approximately 7 hours from start to finish. My breakdown is 1 hour researching mechanisms, 2.5 hours designing the parts in SolidWorks, 0.5 hour preparing and slicing the files, 1.5 hours printing, 0.5 hour removing supports and cleaning the parts, and 1 hour assembling and testing. The project took slightly longer than I expected because designing the pivot supports and checking the clearances. 
 
