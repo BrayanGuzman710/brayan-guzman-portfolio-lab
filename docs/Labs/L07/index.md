@@ -74,6 +74,10 @@ Design Decisions
 3. Purchased pivot hardware I considered printing a pivot pin, but I chose an M5 bolt, washer, and nut. Purchased hardware made the connection easier to assemble and allowed me to adjust how tightly the joint was secured.
 4. Integrated pressing tip- I considered making the pressing tip a separate component, but I built it into the lever. This reduced the number of parts and eliminated another fastening connection.
 
+<video controls playsinline preload="metadata" width="480" style="max-width:100%;">
+  <source src="IMG_5577_GitHub.mp4" type="video/mp4">
+</video>
+
 ## 3-D Printing
 
 After completing my design in SolidWorks, I exported the base and lever from SolidWorks as STL files and imported them into PrusaSlicer. I placed the base flat on the build plate and placed the lever on its face. These orientations provided a large contact area with the bed. I checked the sliced preview before printing to confirm that the pivot holes and pressing tip were included. Supports were generated where needed using the auto supports, including beneath the raised pressing tip.
