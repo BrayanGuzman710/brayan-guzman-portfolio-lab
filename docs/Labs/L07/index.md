@@ -2,6 +2,12 @@
 
 Design, 3D print, and document a working linkage or mechanism that performs a defined motion or task. You may use purchased hardware such as screws, bolts, pins or springs. All other functional parts must be your own design and must be 3D printed.
 
+SolidWorks Parts:
+
+
+
+
+
 ## Table of Contents
 
 - [Research](#research)
