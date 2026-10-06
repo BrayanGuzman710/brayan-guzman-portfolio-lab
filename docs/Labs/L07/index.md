@@ -16,6 +16,11 @@ SolidWorks Parts:
 - [3D Printing](#3d-printing)
 - [Lessons Learned](#lessons-learned)
 
+<video controls playsinline preload="metadata" width="480" style="max-width:100%;">
+  <source src="IMG_5565_GitHub.mp4" type="video/mp4">
+</video>
+
+
 ## Research
 Resources: 
 
