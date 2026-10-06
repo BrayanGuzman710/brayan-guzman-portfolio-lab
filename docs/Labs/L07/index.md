@@ -47,6 +47,7 @@ The lever was 110 mm long, 20 mm tall, and 12 mm thick. The pivot hole was cente
 For the pivot, I designed 5.5 mm holes for a nominal 5 mm M5 bolt. This provides 0.5 mm of diametral clearance, or approximately 0.25 mm of radial clearance when centered. I selected this as an initial printing allowance so the bolt could fit without requiring a tight press fit.
 The space between the upright supports was 14 mm, and the lever thickness was 12 mm. This provides 2 mm of total side clearance, or 1 mm on each side when centered. The clearance allows the lever to rotate without rubbing directly against both supports.
 These were initial design allowances rather than fit values taken from Machinery’s Handbook. The printed parts provided the first physical fit check.
+I also used the assembly feature on SolidWorks to make sure the parts would fit together. 
 <img width="1233" height="606" alt="Screenshot 2026-10-01 144909" src="https://github.com/user-attachments/assets/e5b762fa-3b19-4856-8361-f4a03e587897" />
 <img width="988" height="602" alt="Screenshot 2026-10-01 145257" src="https://github.com/user-attachments/assets/08742a52-abf1-4357-bd00-4d605b8b219b" />
 <img width="1487" height="632" alt="Screenshot 2026-10-01 150318" src="https://github.com/user-attachments/assets/5b10c789-e333-48f1-8f06-907c4316a773" />
@@ -73,5 +74,8 @@ A seam forms where a perimeter begins and ends. It can create a small surface bu
 
 
 ## Lessons Learned 
+The project took approximately 7 hours from start to finish. My breakdown is 1 hour researching mechanisms, 2.5 hours designing the parts in SolidWorks, 0.5 hour preparing and slicing the files, 1.5 hours printing, 0.5 hour removing supports and cleaning the parts, and 1 hour assembling and testing. The project took slightly longer than I expected because designing the pivot supports and checking the clearances. 
 
+One difficulty was choosing print settings that made the printing time longer than I wanted. I noticed this when I checked the estimated time in PrusaSlicer with 30% infill. I reduced the infill to 20% while keeping four perimeters, which brought the estimate time down to about an hour and a half. This taught me to check the sliced preview and printing estimate.
 
+The first-print clearances worked well enough to assemble and operate the lever press. I used 5.5 mm pivot holes for the nominal 5 mm M5 bolt, giving 0.5 mm of diametral clearance. The 14 mm gap between the supports and the 12 mm lever thickness provided 2 mm of total side clearance. Since it worked, I would definitely use the exam same dimensions and print settings. 
