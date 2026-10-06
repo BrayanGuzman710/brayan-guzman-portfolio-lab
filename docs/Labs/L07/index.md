@@ -4,7 +4,8 @@ Design, 3D print, and document a working linkage or mechanism that performs a de
 
 SolidWorks Parts:
 
-
+- [Download the Press Base](Lever%20Press%20Base.SLDPRT)
+- [Download the Press Lever](Lever%20Press%20Lever.SLDPRT)
 
 
 
