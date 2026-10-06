@@ -69,5 +69,9 @@ I initially used 30% infill, but I reduced it to 20% to shorten the estimated pr
 <img width="988" height="602" alt="Screenshot 2026-10-01 145257" src="https://github.com/user-attachments/assets/7de15790-435f-472e-acb8-b291e1dc6ea5" />
 
 A seam forms where a perimeter begins and ends. It can create a small surface bump, which may affect a moving joint if it lies on a contacting surface. Rear seam placement directs seams toward the back of the model, but it does not eliminate them. The planned change was from Aligned to Rear. I chose this setting to place seams consistently toward the back, then check their locations in the sliced preview. The seam position also worked well. The seams did not cause rubbing or binding when the lever moved. I would keep the same seam setting because it provided a nice surface finish for my lever. The base and lever were printed as separate parts. During printing, I initially thought the upright pivot holes might not form correctly. After the print finished, I confirmed that the holes had printed successfully. 
-<img width="988" height="602" alt="Screenshot 2026-10-01 145257" src="https://github.com/user-attachments/assets/906840c2-a26c-4696-b593-a7f5fe25bc5e" />
+<img width="4284" height="5712" alt="IMG_5579" src="https://github.com/user-attachments/assets/7fdfe478-34f7-4a3f-94de-d08e6b06229a" />
+
+
+## Lessons Learned 
+
 
