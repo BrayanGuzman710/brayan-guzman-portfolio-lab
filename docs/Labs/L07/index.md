@@ -11,8 +11,11 @@ Design, 3D print, and document a working linkage or mechanism that performs a de
 
 ## Research
 Resources: 
+
 https://www.sciencedirect.com/science/article/pii/S2589004226025666 
+
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10764349/
+
 https://www.nature.com/articles/s41598-023-50804-y 
 
 1. Kirigami Gripper (Published 2026)-This mechanism uses a liquid crystal elastomer (LCE) with a kirigami-inspired cut pattern to create flexible gripping fingers. The fingers open when the material is actuated and close around an object when actuation is removed. This allows the gripper to continue holding an object without power being supplied for the holding action. The gripper also includes a conductive composite layer that changes electrical resistance as it deforms. This provides strain sensing, allowing the device to detect deformation and estimate the size of a grasped object. The researchers demonstrated gripping objects with different shapes, materials, and weights. This was 
