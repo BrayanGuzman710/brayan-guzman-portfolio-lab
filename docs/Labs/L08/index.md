@@ -52,6 +52,9 @@ d layers created closed surfaces, with a nominal thickness of 1 mm each at the s
 I learned how a linear pattern makes repeated features easier to create and adjust. During modeling, I initially selected a short edge for the pattern direction, which placed the copied posts sideways off the base. Selecting the long edge corrected the direction and placed all four posts along the holder. This showed me why checking the feature preview matters before accepting it. This lab took me around 4 hours. 
 
 # Resources 
+
 SolidWorks- used to design and model my socket holder
+
 Prusa Core- used to 3-D print my socket holder
+
 Calipers- used for measurements
