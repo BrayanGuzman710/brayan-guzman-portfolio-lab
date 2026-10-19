@@ -57,6 +57,9 @@ I learned how a linear pattern makes repeated features easier to create and adju
 
 SolidWorks- used to design and model my socket holder
 
+
 Prusa Core- used to 3-D print my socket holder
 
+
 Calipers- used for measurements
+
