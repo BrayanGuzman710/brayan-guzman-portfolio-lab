@@ -1,7 +1,11 @@
 # A8 Design and Print Something Useful
 
-SolidWorks Files:
+SolidWorks and Prusa Files:
+<a href="https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio-lab/main/docs/Labs/L08/Socket%20Holder.SLDPRT" download>Download SolidWorks Part (.SLDPRT)</a>
 
+<br><br>
+
+<a href="https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio-lab/main/docs/Labs/L08/Socket%20Holder.STL" download>Download STL File (.STL)</a>
 
 
 ## Table of Contents
@@ -13,6 +17,10 @@ SolidWorks Files:
 
 ## Reading Reflection
 Asking smart questions is important because it can help you understand a problem before you start looking for a solution. When I started to design my socket holder, I asked myself how I want to organize them, how much space will it take up, what sizes will I be using. Asking questions also help me identify the clearance I needed between the sockets. Asking questions as a whole helps you eliminate errors and multiple revisions. 
+
+<video controls playsinline preload="metadata" style="width:100%; max-width:500px;">
+  <source src="/brayan-guzman-portfolio-lab/Labs/L08/IMG_5645.mp4" type="video/mp4">
+</video>
 
 ## Design and CAD Modeling 
 For my design this week I chose to design a socket holder. A holder for 4 standard depth, 12-point sockets all metric: 14mm, 15mm, 16mm, and 17mm. They are all a 1/2-inch drive. The purpose of this is to keep all my sockets upright and organized so that they are easier to find when I am working on something. I plan to use Velcro to stick them onto my toolbox and that way be able to take the whole plate off itself when they are needed for use. I chose to design this because I had a set like this that had a bar full of sockets, but the tabs began to bend, and it didn't want to hold my sockets anymore. So I decided to throw it away and just throw them all loose into my toolbox. This will eliminate the need of searching for them and also help keep the toolbox clean. 
