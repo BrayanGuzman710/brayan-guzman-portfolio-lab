@@ -9,6 +9,8 @@ SolidWorks and Prusa Files:
 
 <a href="https://raw.githubusercontent.com/BrayanGuzman710/brayan-guzman-portfolio-lab/main/docs/Labs/L08/Socket%20Holder.STL" download>Download STL File (.STL)</a>
 
+<img width="4284" height="5712" alt="IMG_5650" src="https://github.com/user-attachments/assets/fd0a0120-2912-4374-84aa-459d328f31d8" />
+
 
 ## Table of Contents
 - [Reading Reflection](#reading-reflection)
