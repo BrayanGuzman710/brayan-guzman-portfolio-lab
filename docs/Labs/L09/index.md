@@ -73,7 +73,7 @@ This is where I showed the changing of the variable and what it would do if you 
 
 We used calipers to determine the materials thickness and size
 
-We were given a 12 in x 12 in sheet of plywood. I measure the thickness of the plywood on two sides and in a corner and all of them were 0.106 in. 
+We were given a 12 in x 12 in sheet of plywood. I measure the thickness of the plywood on two sides and in a corner and all of them came out to a mean thickness of 0.106 in. 
 
 The following slot-based kerf estimates assume based on the files in my CAD screenshots.
 
