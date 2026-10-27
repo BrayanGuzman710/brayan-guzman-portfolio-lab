@@ -54,4 +54,44 @@ This relationship allows the extrusion thickness and slot width to update when I
 <img width="1256" height="780" alt="image" src="https://github.com/user-attachments/assets/1a4ae0a0-987f-4cfe-92c7-607826dd7cb0" />
 <img width="1346" height="797" alt="image" src="https://github.com/user-attachments/assets/31dd96ec-d6c1-4971-8c4e-03a9c04ac899" />
 
+<img width="906" height="582" alt="image" src="https://github.com/user-attachments/assets/f15c4bc4-12b2-4054-bf4b-d39d428f94dd" />
+
+# Material Measurement 
+
+We used calipers to determine the materials thickness and size
+
+We were given a 12 in x 12 in sheet of plywood. I measure the thickness of the plywood on two sides and in a corner and all of them were 0.106 in. 
+
+The following slot-based kerf estimates assume based on the files in my CAD screenshots.
+
+Estimated kerf = measured slot width − CAD slot width
+
+<img width="1668" height="2157" alt="Lab 9-2 (1)" src="https://github.com/user-attachments/assets/263d8b8f-324f-4e43-ae78-3c504fbf3fda" />
+
+<img width="4284" height="5712" alt="IMG_5702" src="https://github.com/user-attachments/assets/adb88928-a915-4057-86ca-97c758e45883" />
+
+This shows my cuts all fit tightly and can be connected.
+
+## Manufacturing, including Process Research
+
+# Process Research
+
+Laser cutting uses a focused beam to remove material along a programmed path. The removed width is called kerf. Accounting for kerf is important because outside profiles become smaller and internal openings become larger when the laser follows an uncompensated contour.
+
+Compared with FDM printing, laser cutting is well suited to flat sheet parts because it cuts their outlines without building them layer by layer. It can be faster for simple sheet profiles, although setup and testing also take time. Its geometric limitation is that each piece starts as a flat sheet with a fixed thickness. FDM can produce more complex three-dimensional shapes directly, while laser-cut pieces often require assembly to create a three-dimensional object.
+
+
+# Laser Process Record
+<img width="590" height="1278" alt="IMG_5706" src="https://github.com/user-attachments/assets/a560ec59-9f79-425c-bad6-41d3d33c1437" />
+
+These were my test pieces. We cut them out to test how they would fit and they were very loose. 
+<img width="4284" height="5712" alt="IMG_5707" src="https://github.com/user-attachments/assets/d49fcd8d-8668-4662-a9af-7e0d7a088e48" />
+
+<img width="590" height="1278" alt="IMG_5699" src="https://github.com/user-attachments/assets/2374377a-b8c4-4f14-a2e5-eafaa6e8ff81" />
+There was a mistake in my picture the kerf for radius was "1 - 0.106" in
+
+
+
+
+
 
