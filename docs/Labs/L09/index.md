@@ -87,6 +87,9 @@ Compared with FDM printing, laser cutting is well suited to flat sheet parts bec
 
 
 # Laser Process Record
+
+<img width="482" height="347" alt="image" src="https://github.com/user-attachments/assets/45343ede-204d-4778-bb39-e63ee7b7fd05" />
+
 <img width="590" height="1278" alt="IMG_5706" src="https://github.com/user-attachments/assets/a560ec59-9f79-425c-bad6-41d3d33c1437" />
 
 These were my test pieces. We cut them out to test how they would fit and they were very loose. 
