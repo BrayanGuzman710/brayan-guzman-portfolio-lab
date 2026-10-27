@@ -33,7 +33,7 @@ The triangle has a dimensioned sloped side of 1.00 in.
 
 <img width="885" height="712" alt="image" src="https://github.com/user-attachments/assets/5b103a8d-8abd-4100-a1d9-dd9aa5a7e827" />
 
-Each part has a slot depth of 0.50 in. My kit has 8 parts. 
+Each part has a slot depth of 0.50 in. My kit has 10 parts. 
 
 
 ## Parametric Design
