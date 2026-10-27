@@ -88,7 +88,22 @@ These were my test pieces. We cut them out to test how they would fit and they w
 <img width="4284" height="5712" alt="IMG_5707" src="https://github.com/user-attachments/assets/d49fcd8d-8668-4662-a9af-7e0d7a088e48" />
 
 <img width="590" height="1278" alt="IMG_5699" src="https://github.com/user-attachments/assets/2374377a-b8c4-4f14-a2e5-eafaa6e8ff81" />
+
 There was a mistake in my picture the kerf for radius was "1 - 0.106" in
+
+<video controls playsinline preload="metadata" style="width:100%; max-width:720px;">
+  <source src="IMG_5700.mp4" type="video/mp4">
+</video>
+
+<video controls playsinline preload="metadata" style="width:100%; max-width:720px;">
+  <source src="IMG_5701.mp4" type="video/mp4">
+</video>
+
+I arranged the semicircle, rectangle, and triangle profiles close together while leaving space between the cutting paths. I rotated the pieces to use the available sheet area efficiently and reduce unused material. Keeping the parts in one organized layout also made them easier to identify after cutting.
+
+After cutting, I checked the edges and measured the slot openings with calipers. The measured openings varied between shapes, showing why using the same CAD slot dimension does not guarantee an identical manufactured fit.
+
+For assembly, I aligned the slots and slid the pieces together perpendicular to one another. I checked how easily each connection assembled and whether it resisted movement. This helped me evaluate how material thickness and slot width affected the finished kit. 
 
 
 
