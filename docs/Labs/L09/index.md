@@ -145,7 +145,7 @@ The measured slots were wider than the assumed 0.096-in CAD opening. Using only 
 
 2. How does Taguchi’s quality loss apply?
 
-The triangles were a little looser than all of the other parts but it still works. Even if that joint technically didn't work, being away from the target fit could cause wobbling, difficult assembly, or damage. Across thousands of parts, those problems could increase assembly time, rework, and customer complaints.
+The triangles were a little looser than all of the other parts but it still works. Although the joint still worked, its looser fit allowed more movement than intended, being away from the target fit could cause wobbling, difficult assembly, or damage. Across thousands of parts, those problems could increase assembly time, rework, and customer complaints.
 
 3. What real product uses similar connections?
 
