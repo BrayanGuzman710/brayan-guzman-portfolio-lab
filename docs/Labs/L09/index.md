@@ -16,6 +16,11 @@ By the end of this lab, you will be able to:
 
 ## Design 
 
+# Sketch
+
+<img width="1668" height="2157" alt="Lab 9-3" src="https://github.com/user-attachments/assets/b3d3faa8-3a6c-43a6-bb66-b5487a2f0445" />
+
+
 # Design and CAD Process
 
 
