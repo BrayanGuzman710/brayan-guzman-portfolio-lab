@@ -10,7 +10,7 @@ By the end of this lab, you will be able to:
 
 ## Table of Contents
 - [Design](#design)
-- [Manufacturing, including Process Research](#manufacturing-including-process-research)
+- [Manufacturing, with Process Research](#manufacturing-including-process-research)
 - [Lessons Learned](#lessons-learned)
 
 
