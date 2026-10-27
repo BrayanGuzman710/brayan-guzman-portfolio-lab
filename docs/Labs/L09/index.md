@@ -99,6 +99,13 @@ These were my test pieces. We cut them out to test how they would fit and they w
 
 There was a mistake in my picture the kerf for radius was "1 - 0.106" in
 
+# Air Assist, Exhaust, and Edge Quality
+
+The air assist and exhaust worked well during cutting. The air assist helped keep smoke and debris away from the cutting area, while the exhaust removed smoke from the machine. I did not notice any problems with either system.
+
+The plywood edges were clean and consistent, with burn marks but in the edges which is suspected. The edge quality was good enough for assembly, so I did not make any additional changes to improve it.
+
+
 <video controls playsinline preload="metadata" style="width:100%; max-width:720px;">
   <source src="IMG_5700.mp4" type="video/mp4">
 </video>
