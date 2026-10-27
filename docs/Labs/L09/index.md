@@ -61,6 +61,14 @@ This relationship allows the extrusion thickness and slot width to update when I
 
 <img width="906" height="582" alt="image" src="https://github.com/user-attachments/assets/f15c4bc4-12b2-4054-bf4b-d39d428f94dd" />
 
+This is where I showed the changing of the variable and what it would do if you were to change it from 0.106 in to 0.9 in.
+
+<img width="1917" height="827" alt="Screenshot 2026-10-27 123925" src="https://github.com/user-attachments/assets/e209aca6-96b6-412f-94ab-ce36c5a3aac5" />
+<img width="1352" height="507" alt="Screenshot 2026-10-27 123946" src="https://github.com/user-attachments/assets/a8242c76-5505-4db9-99ed-eb9c62eff403" />
+<img width="1740" height="828" alt="Screenshot 2026-10-27 123957" src="https://github.com/user-attachments/assets/4444f71e-059c-4a82-be31-8593c70b1c6f" />
+
+
+
 # Material Measurement 
 
 We used calipers to determine the materials thickness and size
