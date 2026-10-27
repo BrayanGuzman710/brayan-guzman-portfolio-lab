@@ -106,7 +106,45 @@ After cutting, I checked the edges and measured the slot openings with calipers.
 For assembly, I aligned the slots and slid the pieces together perpendicular to one another. I checked how easily each connection assembled and whether it resisted movement. This helped me evaluate how material thickness and slot width affected the finished kit. 
 
 
+## Lessons Learned
+
+# Time Spent
+
+ CAD design - 1.5 hours
+
+Measurement and testing - 1.5 hours
+
+Cutting and assembly - 1 hour 
+
+Documentation - 1 hour
+
+Total Time Spent - 5 hours
 
 
+# Resources Used
+
+- Material type and sheet size: Plywood 12 in x 12 in 
+- Number of sheets: 1
+- CAD software: SolidWorks
+- Measuring tool: Calipers
+- Laser cutter: Epilog
+
+# Reflection Questions
+
+1. Where did measured values differ from assumptions?
+
+The measured slots were wider than the assumed 0.096-in CAD opening. Using only the CAD dimensions would have led me to expect interference, while the measured openings were wider than the 0.106-in material. This difference demonstrates why the fit must be measured and tested.
+
+2. How does Taguchi’s quality loss apply?
+
+The triangles were a little looser than all of the other parts but it still works. Even if that joint technically didn't work, being away from the target fit could cause wobbling, difficult assembly, or damage. Across thousands of parts, those problems could increase assembly time, rework, and customer complaints.
+
+3. What real product uses similar connections?
+
+Furniture uses sheet components joined with tabs and slots. An oversized slot can allow movement and reduce stability. An undersized slot can make assembly difficult or damage the material when the customer forces the parts together. 
+
+4. What would I change with one more cut?
+
+With one more cut, I would test a revised slot width based on verified kerf measurements and the actual assembly results. I would compare it with the current fit and select the opening that holds securely without damaging the pieces.
 
 
