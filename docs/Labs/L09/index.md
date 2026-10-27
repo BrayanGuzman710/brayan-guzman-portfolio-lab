@@ -41,7 +41,7 @@ The triangle has a dimensioned sloped side of 1.00 in.
 Each part has a slot depth of 0.50 in. My kit has 10 parts. 
 
 
-## Parametric Design
+# Parametric Design
 
 I created a global variable named T to control the material thickness. I linked each part’s extrusion thickness and slot width to this variable:
 
