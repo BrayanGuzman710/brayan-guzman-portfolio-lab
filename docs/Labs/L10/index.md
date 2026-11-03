@@ -110,9 +110,30 @@ I compared two layer-height settings before printing:
 
 The 0.050 mm setup used thinner layers.
 
+### Volume Verification
 
+The assignment allows a maximum combined volume of 20 mL, including supports. Both setups were below this limit, even with the rafts included.
 
+0.050 mm setup: 20 − 12.72 = 7.28 mL below the limit
 
+## Post processing 
+After printing, I washed the box and lid using the washer to remove uncured resin. I allowed the parts to dry before curing them using microwave curer. 
+I removed the supports using a scraper and dykes, taking care around the thin lid and guide grooves. I inspected the support-contact locations and one of my sides broke. I also had to sand it down a little to get it to fit better. I used a flie to take a little off the edges about .025 off. 
+
+## Fit Test
+
+The following example values demonstrate dimensions that satisfy the selected RC 2 limits.
+
+| Feature | Example Size (mm) | Acceptable Range (mm) | Within Limits? |
+|---|---:|---|---|
+| Track width | 23.006 | 23.0000–23.1270 | Yes |
+| Lid width | 22.987 | 22.9822–22.99238 | Yes |
+| Groove height | 2.003 | 2.0000–2.0635 | Yes |
+| Lid thickness | 1.995 | 1.9923–1.99746 | Yes |
+
+I tested the printed box and lid together, and the box worked as intended. The lid slid into the guide grooves and opened and closed successfully. This demonstrated the design’s function as a small storage container.
+
+The functional test confirmed that the parts fit together and allowed sliding movement. Dimensional compliance with the RC 2 limits still requires measured values for the track width, lid width, groove height, and lid thickness.
 
 
 
