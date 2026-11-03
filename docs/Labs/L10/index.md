@@ -124,17 +124,24 @@ I removed the supports using a scraper and dykes, taking care around the thin li
 
 The following example values demonstrate dimensions that satisfy the selected RC 2 limits.
 
-| Feature | Example Size (mm) | Acceptable Range (mm) | Within Limits? |
+| Feature | Example Size (mm) | Acceptable Range (mm) | 
 |---|---:|---|---|
-| Track width | 23.006 | 23.0000–23.1270 | Yes |
-| Lid width | 22.987 | 22.9822–22.99238 | Yes |
-| Groove height | 2.003 | 2.0000–2.0635 | Yes |
-| Lid thickness | 1.995 | 1.9923–1.99746 | Yes |
+| Track width | 23.006 | 23.0000–23.1270 |
+| Lid width | 22.987 | 22.9822–22.99238 |
+| Groove height | 2.003 | 2.0000–2.0635 |
+| Lid thickness | 1.995 | 1.9923–1.99746 |
 
 I tested the printed box and lid together, and the box worked as intended. The lid slid into the guide grooves and opened and closed successfully. This demonstrated the design’s function as a small storage container.
 
 The functional test confirmed that the parts fit together and allowed sliding movement. Dimensional compliance with the RC 2 limits still requires measured values for the track width, lid width, groove height, and lid thickness.
 
+## Lessons Learned
+
+This project taught me how small dimensional differences affect a sliding fit. I learned to distinguish between nominal dimensions, CAD targets, and acceptable finished-part dimensions.
+
+Using global variables and equations in SolidWorks helped me control the fit dimensions and keep the features centered. During assembly, I initially had the lid facing backward and selected references that limited its movement incorrectly. Correcting the orientation and mate selections allowed the lid to open and close properly in CAD.The printed box worked, showing that the two-part design provided a useful sliding mechanism.
+
+For a better part, I would print a small fit sample first and measure it after washing and curing. Those results would help me identify any dimensional correction needed before printing the full box. I would also record measurements before and after post-processing to better understand its effect on the fit.
 
 
 
