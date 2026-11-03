@@ -141,12 +141,12 @@ I removed the supports using a scraper and dykes, taking care around the thin li
 
 The following example values demonstrate dimensions that satisfy the selected RC 2 limits.
 
-| Feature | Example Size (mm) | Acceptable Range (mm) | 
-|---|---:|---|
-| Track width | 23.006 | 23.0000–23.1270 |
-| Lid width | 22.987 | 22.9822–22.99238 |
-| Groove height | 2.003 | 2.0000–2.0635 |
-| Lid thickness | 1.995 | 1.9923–1.99746 |
+| Feature | Example Size (mm) | Acceptable Range (mm) 
+|---|---:|---
+| Track width | 23.006 | 23.0000–23.1270 
+| Lid width | 22.987 | 22.9822–22.99238 
+| Groove height | 2.003 | 2.0000–2.0635
+| Lid thickness | 1.995 | 1.9923–1.99746 
 
 I tested the printed box and lid together, and the box worked as intended. The lid slid into the guide grooves and opened and closed successfully. This demonstrated the design’s function as a small storage container.
 
