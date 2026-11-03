@@ -3,6 +3,8 @@
 SolidWorks Files:
 
 
+[Download Sliding Box](Sliding%20Box.SLDPRT)
+[Download Sliding Lid](Sliding%20Lid.SLDPRT)
 
 
 
