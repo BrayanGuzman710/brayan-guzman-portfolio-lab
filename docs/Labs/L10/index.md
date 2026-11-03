@@ -93,7 +93,7 @@ I prepared the box and lid as separate components for resin printing.
 I compared two layer-height settings before printing:
 
 | Parameter | 0.050 mm Setup 
-|---|---:|---:|
+|---|---:
 | Printer model | Formlabs Form 4 
 | Printer name | HiddenCod 
 | Resin | Clear V5 
