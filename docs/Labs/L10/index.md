@@ -117,6 +117,16 @@ The assignment allows a maximum combined volume of 20 mL, including supports. Bo
 0.050 mm setup: 20 − 12.72 = 7.28 mL below the limit
 
 ## Post processing 
+<img width="4284" height="5712" alt="IMG_5717" src="https://github.com/user-attachments/assets/9e1f4084-3143-4436-97c2-fb22979ea15e" />
+
+<img width="4284" height="5712" alt="IMG_5718" src="https://github.com/user-attachments/assets/131d361d-3a97-40c9-9cef-f4b6898f9ebf" />
+
+<img width="4284" height="5712" alt="IMG_5719" src="https://github.com/user-attachments/assets/d759da9d-2029-4b14-818b-9c81e6c30fd4" />
+
+<img width="4284" height="5712" alt="IMG_5720" src="https://github.com/user-attachments/assets/5ae101f5-dec5-42f4-bc7d-1f733c48b2be" />
+
+<img width="4284" height="5712" alt="IMG_5721" src="https://github.com/user-attachments/assets/9d7810db-39ed-4a5e-a618-9dc636171d99" />
+
 After printing, I washed the box and lid using the washer to remove uncured resin. I allowed the parts to dry before curing them using microwave curer. 
 I removed the supports using a scraper and dykes, taking care around the thin lid and guide grooves. I inspected the support-contact locations and one of my sides broke. I also had to sand it down a little to get it to fit better. I used a flie to take a little off the edges about .025 off. 
 
