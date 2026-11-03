@@ -160,6 +160,14 @@ Using global variables and equations in SolidWorks helped me control the fit dim
 
 For a better part, I would print a small fit sample first and measure it after washing and curing. Those results would help me identify any dimensional correction needed before printing the full box. I would also record measurements before and after post-processing to better understand its effect on the fit.
 
+This assignment took me 5 hours
+
+
+# Resources
+
+Solidworks- designing parts
+Reisin printer- printing parts
+Preform- uploading design and slicing/orienting 
 
 
 
