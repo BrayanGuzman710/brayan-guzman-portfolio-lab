@@ -92,23 +92,23 @@ I prepared the box and lid as separate components for resin printing.
 
 I compared two layer-height settings before printing:
 
-| Parameter | 0.050 mm Setup | 0.100 mm Setup |
+| Parameter | 0.050 mm Setup 
 |---|---:|---:|
-| Printer model | Formlabs Form 4 | Formlabs Form 4 |
-| Printer name | HiddenCod | MatureImpala |
-| Resin | Clear V5 | Clear V5 |
-| Print settings | Default | Default |
-| Layer thickness | 0.050 mm | 0.100 mm |
-| Estimated print time | 2 hours | 1 hour |
-| Number of layers | 900 | 450 |
-| Model volume | 6.69 mL | 6.71 mL |
-| Support volume | 1.86 mL | 1.86 mL |
-| Raft volume | 4.18 mL | 4.19 mL |
-| Total reported volume | 12.72 mL | 12.75 mL |
-| Support touchpoints | 129 | 129 |
-| CAD wall and bottom thickness | 2 mm | 2 mm |
+| Printer model | Formlabs Form 4 
+| Printer name | HiddenCod 
+| Resin | Clear V5 
+| Print settings | Default 
+| Layer thickness | 0.050 mm 
+| Estimated print time | 2 hours 
+| Number of layers | 900 
+| Model volume | 6.69 mL 
+| Support volume | 1.86 mL 
+| Raft volume | 4.18 mL 
+| Total reported volume | 12.72 mL 
+| Support touchpoints | 129 
+| CAD wall and bottom thickness | 2 mm 
 
-The 0.100 mm setup reduced the estimated print time from two hours to one hour. The 0.050 mm setup used thinner layers, but layer thickness alone does not establish whether the finished mating features meet the RC 2 dimensional limits.
+The 0.050 mm setup used thinner layers.
 
 
 
