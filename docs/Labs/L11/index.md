@@ -1,6 +1,9 @@
 
 # SLA Snap-Fit Storage Box
 
+<img width="4284" height="5712" alt="IMG_5779" src="https://github.com/user-attachments/assets/7cea5b33-8fbc-4b60-857c-f884a18286a7" />
+
+
 SolidWorks Downloads: 
 
 
@@ -70,6 +73,9 @@ I created the box using Boss-Extrude and Shell. I created the lid using Boss-Ext
 <img width="1294" height="621" alt="image" src="https://github.com/user-attachments/assets/6fc5983d-8229-474c-b1a0-ea7a19198c64" />
 <img width="642" height="332" alt="image" src="https://github.com/user-attachments/assets/12bd1ec7-2898-402b-bdf2-c0059545a3d6" />
 
+<img width="4284" height="5712" alt="IMG_5785" src="https://github.com/user-attachments/assets/24489d8a-5d3c-48e7-b40e-6990bafe5861" />
+<img width="4284" height="5712" alt="IMG_5782" src="https://github.com/user-attachments/assets/3c3d8797-387e-4b30-ad1b-bdef89e93c34" />
+
 
 ### Lid Modeling
 
@@ -87,6 +93,7 @@ This produced two snap-fit tabs designed to engage with the openings in the box.
 <img width="1061" height="506" alt="image" src="https://github.com/user-attachments/assets/2fbf6790-6c1d-4d98-b1d1-84a3dd48f8ff" />
 <img width="1208" height="568" alt="image" src="https://github.com/user-attachments/assets/793b984e-d4dc-44a0-9eba-b4a85da92d2f" />
 
+<img width="4284" height="5712" alt="IMG_5781" src="https://github.com/user-attachments/assets/25d33fe7-5dcf-4527-8645-f6b5b09d0757" />
 
 ### Design Iterations
 
