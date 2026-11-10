@@ -158,6 +158,13 @@ Post-curing is particularly important for snap-fit designs because it influences
 | Curing Time | 10 min |
 | Support Removal | Used a scraper and dykes to take off supports |
 
+<img width="4284" height="5712" alt="IMG_5762" src="https://github.com/user-attachments/assets/dcf72473-7aeb-41b4-b3f2-7508d5594dcd" />
+<img width="4284" height="5712" alt="IMG_5761" src="https://github.com/user-attachments/assets/5fd1a666-f40e-4aca-a472-4cfbfd8f6219" />
+<img width="4284" height="5712" alt="IMG_5760" src="https://github.com/user-attachments/assets/e06c7f3d-a55d-403a-bd4b-97954132620e" />
+<img width="4284" height="5712" alt="IMG_5759" src="https://github.com/user-attachments/assets/c93a321d-aa96-4ba5-b163-fb6e5435132a" />
+<img width="4284" height="5712" alt="IMG_5758" src="https://github.com/user-attachments/assets/0112d153-778e-40f1-bcb4-323ee8628fc0" />
+<img width="4284" height="5712" alt="IMG_5757" src="https://github.com/user-attachments/assets/75e306b6-59f7-4e9d-ba5e-14c3d500905e" />
+<img width="4284" height="5712" alt="IMG_5756" src="https://github.com/user-attachments/assets/c569adc7-7a90-4af9-bd6f-010e3cc24cf0" />
 
 
 ## Validation and Testing
