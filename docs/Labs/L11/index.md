@@ -6,8 +6,9 @@
 
 SolidWorks Downloads: 
 
-
-
+[Download Snap-Fit Box (.SLDPRT)](Snap%20Fit%20Box.SLDPRT?raw=1)
+[Download Snap-Fit Lid (.SLDPRT)](Snap%20Fit%20Lid.SLDPRT?raw=1)
+[Download Snap-Fit Assembly (.SLDASM)](Snap%20Fit%20Assembly.SLDASM?raw=1)
 
 ## Table of Contents
 
