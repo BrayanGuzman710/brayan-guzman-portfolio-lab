@@ -64,7 +64,7 @@ that guides the next design decision.
 Anisotropy means a material’s properties depend on direction. FDM builds parts using filament paths and stacked layers. The connections between layers can be weaker than the
 material within a layer, making print orientation important.
 
-For this holder, a sideways force on a jaw bends its upright. Printing with the support foot flat provides a broad bed-contact surface and avoids major unsupported features. However, it does not automatically provide the strongest orientation: bending can put tension across layer interfaces near the upright’s base.
+For this holder, there is a sideways force on a jaw bends its upright. Printing with the support foot flat provides a good bed-contact surface and avoids major unsupported features. However, it does not automatically provide the strongest orientation: bending can put tension across layer interfaces near the upright’s base.
 
 I therefore need to evaluate the support under the light forces expected during use. Possible improvements include adding reinforcing ribs, increasing wall thickness, or changing the
 orientation. Increasing infill alone does not remove directional weakness.
@@ -84,8 +84,6 @@ I should check the jaw fit after washing and the recommended post-curing. If the
 ### Laser-Cutting Kerf
 
 Kerf is the width of material removed by the laser. Without compensation, external parts generally become smaller and internal openings become larger than their drawn dimensions.
-
-BRM Lasers gives approximately 0.1–0.3 mm as a typical kerf range for CO₂ cutting of nonmetals. This is a starting reference rather than a setting for every machine. Material, thickness, focus, power, and speed affect the actual value.
 
 For accurate joints, I would cut a test piece using the intended material and settings, measure the result, and compensate the cut path. The geometric offset is approximately half the measured kerf: outward around external boundaries and inward around holes. The software’s compensation convention must also be checked.
 
