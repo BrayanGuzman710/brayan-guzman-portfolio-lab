@@ -145,7 +145,9 @@ The base was positioned flat on the print bed. The intended support orientation 
 <img width="1263" height="720" alt="Screenshot 2026-11-17 124404" src="https://github.com/user-attachments/assets/2721e878-92f9-49a5-87e8-17a6f78f6bcc" />
 <img width="738" height="526" alt="image" src="https://github.com/user-attachments/assets/082cd075-1e40-4340-85b9-a0af923561a8" />
 
-
+### SLA Preparation
+<img width="934" height="716" alt="image" src="https://github.com/user-attachments/assets/0fe38568-9e28-48f2-8564-2d75c7df6f7d" />
+<img width="1911" height="966" alt="Screenshot 2026-11-17 125414" src="https://github.com/user-attachments/assets/90f3e87d-28d4-4ef5-8ad7-9c24deb130ad" />
 
 
 
