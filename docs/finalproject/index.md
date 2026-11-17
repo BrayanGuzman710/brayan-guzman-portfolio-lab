@@ -88,3 +88,55 @@ Kerf is the width of material removed by the laser. Without compensation, extern
 For accurate joints, I would cut a test piece using the intended material and settings, measure the result, and compensate the cut path. The geometric offset is approximately half the measured kerf: outward around external boundaries and inward around holes. The software’s compensation convention must also be checked.
 
 My selected prototype uses FDM and SLA. If I used a laser-cut base in a future version, I would measure kerf and sheet thickness before finalizing mounting slots or press-fit connections.
+
+## Design and Modeling
+
+# Concept
+
+I modeled the holder in SolidWorks using millimeters. The design contains a base, two sliding supports, and two removable jaw caps.
+
+The support feet span both base slots. Each support has two mounting holes so bolts and nuts can secure its position. The jaw grooves face inward toward each other.
+
+
+### Design Dimensions
+
+| Feature | Design dimension |
+|---|---:|
+| Base footprint | 225 × 180 mm |
+| Slot width | 6.5 mm |
+| Slot arc-center spacing along its length | 185 mm |
+| Distance between parallel slot centerlines | 100 mm |
+| Support foot | 30 × 130 × 8 mm |
+| Support mounting-hole diameter | 6.5 mm |
+| Support mounting-hole spacing | 100 mm |
+| Upright footprint | 12 × 60 mm |
+| Upright height above foot | 50 mm |
+| Jaw outer footprint | 20 × 64 mm |
+| Jaw overall height | [Confirm 20 or 24 mm] |
+| Jaw pocket | 12.4 × 60.4 mm |
+| Jaw pocket depth | 12 mm |
+| Board groove opening | 3 mm |
+| Board groove depth | 3 mm |
+| Groove upper edge below closed top | 3 mm |
+
+<img width="682" height="486" alt="image" src="https://github.com/user-attachments/assets/13be03d2-4782-42f0-9b7b-38ea110c6a31" />
+<img width="710" height="490" alt="image" src="https://github.com/user-attachments/assets/3a7b5702-6551-417e-b17f-28429e92687a" />
+<img width="302" height="534" alt="image" src="https://github.com/user-attachments/assets/6db545cb-2be8-49a4-821d-f781b461e6f6" />
+<img width="274" height="560" alt="image" src="https://github.com/user-attachments/assets/71d9e53d-482b-437b-8b28-704b9cdc86ba" />
+<img width="326" height="598" alt="image" src="https://github.com/user-attachments/assets/d54bc3f4-aa39-476a-b5ac-6ca6a7f7e586" />
+<img width="320" height="502" alt="image" src="https://github.com/user-attachments/assets/119edeb4-5ee0-4293-afdf-8447424c7302" />
+<img width="250" height="538" alt="image" src="https://github.com/user-attachments/assets/21a40415-93d9-4dba-9e4c-5e2cc1d453bc" />
+<img width="866" height="518" alt="image" src="https://github.com/user-attachments/assets/84a333c9-d007-47ce-b893-6fbb999fdda0" />
+<img width="912" height="458" alt="image" src="https://github.com/user-attachments/assets/5f4ef50e-b5be-4edb-ae5a-60a19a2f2ea3" />
+<img width="1210" height="469" alt="image" src="https://github.com/user-attachments/assets/74c9b900-fca8-4299-9c87-05c2b018bcc5" />
+
+
+
+
+
+
+
+
+
+
+
