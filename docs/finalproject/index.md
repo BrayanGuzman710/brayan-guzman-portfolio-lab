@@ -130,8 +130,20 @@ The support feet span both base slots. Each support has two mounting holes so bo
 <img width="912" height="458" alt="image" src="https://github.com/user-attachments/assets/5f4ef50e-b5be-4edb-ae5a-60a19a2f2ea3" />
 <img width="1210" height="469" alt="image" src="https://github.com/user-attachments/assets/74c9b900-fca8-4299-9c87-05c2b018bcc5" />
 
+### Manufacturing Process Selection
 
+I selected FDM for the base and supports and SLA for the removable jaws. This divides the structure and interchangeable gripping features between two manufacturing technologies.
 
+The jaw pocket includes a starting clearance of 0.2 mm per side around the nominal upright. This clearance must be checked using printed parts. 
+
+## Manufacturing 
+
+### FDM Preparation
+
+The base was positioned flat on the print bed. The intended support orientation places the broad underside of its foot on the bed, with the upright extending upward.
+<img width="1534" height="686" alt="image" src="https://github.com/user-attachments/assets/2413a263-1599-4931-baca-6100b79d7d48" />
+<img width="1263" height="720" alt="Screenshot 2026-11-17 124404" src="https://github.com/user-attachments/assets/2721e878-92f9-49a5-87e8-17a6f78f6bcc" />
+<img width="738" height="526" alt="image" src="https://github.com/user-attachments/assets/082cd075-1e40-4340-85b9-a0af923561a8" />
 
 
 
