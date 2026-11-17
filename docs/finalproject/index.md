@@ -112,7 +112,7 @@ The support feet span both base slots. Each support has two mounting holes so bo
 | Upright footprint | 12 × 60 mm |
 | Upright height above foot | 50 mm |
 | Jaw outer footprint | 20 × 64 mm |
-| Jaw overall height | [Confirm 20 or 24 mm] |
+| Jaw overall height | 24mm |
 | Jaw pocket | 12.4 × 60.4 mm |
 | Jaw pocket depth | 12 mm |
 | Board groove opening | 3 mm |
