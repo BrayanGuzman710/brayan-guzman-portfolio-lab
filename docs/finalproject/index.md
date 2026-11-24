@@ -1,4 +1,4 @@
-# Week 1: Problem Selection & Initial Prototype Design
+8# Week 1: Problem Selection & Initial Prototype Design
 
 Goal: Select a real-world problem that you, a friend, or a family member personally experience and refine your prototype design to address it. The goal of this week is to identify a meaningful challenge that can be solved through manufacturing and to develop the first iteration of your prototype using research, modeling, and feedback.
 
